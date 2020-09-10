@@ -1,0 +1,240 @@
+.section .topic-list .well {
+    border: 1px solid #eee;
+    margin-bottom: 10px;
+}
+
+.customshare .list ul {
+    position: absolute;
+    right: 35px;
+    display: block;
+}
+.customshare .list {
+    position: relative;
+}
+.section1{
+    padding: 3rem 0;
+    display: block;
+    position: relative;
+   
+}
+
+.breadcrumb{
+    background-color: none;
+}
+
+.page-title h1 {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-weight: 300;
+    font-size: 2.8rem;
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+
+.tags, .tags li {
+    padding-left: 0 !important;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.list-inline > li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.blog-meta small a {
+    color: #bdbdbd;
+ 
+
+}
+
+.tags a {
+    color: #bdbdbd;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: transparent;
+    font-size: 0.8rem;
+    border: 1px solid #eaecef;
+    text-decoration: none;
+    padding: 5px 12px;
+    border-radius: 20px;
+}
+
+.tags a:hover {
+    background-color: #E91E63 !important;
+    border-color: #E91E63 !important;
+    color: #ffffff !important;
+}
+
+.topic-footer {
+    display: block;
+    margin-top: 20px;
+}
+
+.widget .panel-heading {
+    padding: 23px;
+    border-radius: 0;
+}
+body.topic_list .widget, body.knowledge_base .widget {
+    background-color: #ffffff;
+    padding: 30px;
+    margin-bottom: 40px;
+}
+.section1 {
+    padding: 3rem 0;
+    display: block;
+    position: relative;
+    background: white;
+}
+.section {
+    padding: 3rem 0px;
+}
+
+.widget {
+    background-color: #ffffff;
+    padding: 30px;
+    margin-bottom: 40px;
+    border-top: 10px solid #1565c0;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.widget a {
+    color: #727272;
+    text-decoration: none;
+}
+
+.custom-module {
+    background: white;
+}
+.module-title {
+    text-transform: capitalize;
+    padding: 0 0 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eaecef;
+    color:#ea2f71;
+}
+
+.breadcrumb1 {
+    background-color: transparent;
+    border-radius: 0;
+    list-style: outside none none;
+    margin-bottom: 0;
+    padding: 0 15px;
+    font-size: 1.1rem;
+    color: #bdbdbd;
+    display: inline-flex;
+}
+.breadcrumb1 > li + li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+
+.module-title {
+    text-transform: capitalize;
+    padding: 0 0 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eaecef;
+    font-size:18px;
+    font-weight: 700;
+}
+.module-title i {
+    color: #212121;
+    vertical-align: top;
+    margin: 0 5px 0 0;
+}
+
+.categories {
+    padding: 0;
+    list-style: none;
+}
+.module-title{
+    color: #ea2f71;
+}
+.panel.panel-primary > .panel-heading{
+    background-color: #303F9F;
+}
+.widget .panel-body {
+    padding: 30px 20px;
+}
+.widget .panel-title {
+    color: #ffffff;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+}
+// header
+
+.cutom-back-findsearch{
+    background-color: #1565c0;
+    padding: 14px;
+}
+
+.custom-p {
+    padding-top: 18px;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.btn-group {
+    padding-top: 10px;
+}
+
+.custom-logo{
+    padding-top: 10px;
+    color: white;
+}
+
+.icon-notify{
+    font-size: 20px;
+    color: white;
+    padding-top: 15px;
+}
+
+.cutom-back-findsearch{
+    overflow: hidden;
+}
+
+.custom-button.btn-primary{
+    width: 50%;
+}
+
+input.top_searchbar {
+    display: block;
+    height: 53px;
+    border-radius: 50px;
+    font-size: 1.4rem;
+    padding: 0 30px;
+    border: none;
+    margin: 0 auto;
+    width: 100%;
+    color: var(--be-text);
+    outline: none;
+    background-color: whte;
+    box-shadow: 0 3px 1px -2px rgba(255, 255, 255, 0.92), 0 2px 2px 0 rgba(0, 0, 0, 0.94), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
+
+.btn-info{
+    color: #fff;
+    background-color: #E91E63;
+    border-color: #E91E63;
+    border-radius: 23px;
+    height: 40px;
+   
+}
+
+
+.footer-back {
+    background-color: #dadada94;
+    padding: 14px;
+}

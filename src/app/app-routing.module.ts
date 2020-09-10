@@ -9,9 +9,12 @@ import { AllwordsComponent } from './allwords/allwords.component';
 import { MainBlogComponent } from './main-blog/main-blog.component';
 import { BlogDetailsComponent } from './blog-details/blog-details.component';
 import { UserfiledComponent } from './userfiled/userfiled.component';
-
+import { DonateComponent } from './donate/donate.component';
 
 const routes: Routes = [
+
+ 
+  
   {
   path: 'login',
     component: LoginComponent
@@ -56,6 +59,11 @@ const routes: Routes = [
   {
     path:'userfiled',
     component: UserfiledComponent
+  },
+
+  {
+    path:'donate',
+    component: DonateComponent
   },
 
 ];

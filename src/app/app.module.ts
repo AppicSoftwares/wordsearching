@@ -12,6 +12,7 @@ import { AllwordsComponent } from './allwords/allwords.component';
 import { MainBlogComponent } from './main-blog/main-blog.component';
 import { BlogDetailsComponent } from './blog-details/blog-details.component';
 import { UserfiledComponent } from './userfiled/userfiled.component';
+import { DonateComponent } from './donate/donate.component';
 
 
 
@@ -27,6 +28,7 @@ import { UserfiledComponent } from './userfiled/userfiled.component';
     MainBlogComponent,
     BlogDetailsComponent,
     UserfiledComponent,
+    DonateComponent,
 
     
   ],
